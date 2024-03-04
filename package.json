@@ -1,0 +1,19 @@
+{
+  "name": "syncss-documentation",
+  "version": "0.0.1",
+  "description": "Documentation for Syncss framework (https://www.npmjs.com/package/syncss)",
+  "main": "index.js",
+  "authors": {
+    "name": "Jordan Dey",
+    "email": "dey.jordan@outlook.fr"
+  },
+  "repository": "https://github.com/Jordan-Dey/Syncss/syncss-documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
