@@ -1,4 +1,4 @@
-# Documantation
+# Documentation
 
 In this section you will find information about how work each modules and how personalize appearance of your application.
 
