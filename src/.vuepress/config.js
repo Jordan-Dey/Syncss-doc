@@ -45,8 +45,8 @@ module.exports = {
         link: "/guide/",
       },
       {
-        text: "Config",
-        link: "/config/",
+        text: "Doc",
+        link: "/documentation/",
       },
       {
         text: "FAQ",
@@ -59,6 +59,13 @@ module.exports = {
           title: "Guide",
           collapsable: false,
           children: ["", "usage", "create"],
+        },
+      ],
+      "/documentation/": [
+        {
+          title: "Documentation",
+          collapsable: false,
+          children: ["", "configuration"],
         },
       ],
     },
